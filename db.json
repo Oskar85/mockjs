@@ -1,0 +1,5 @@
+[
+                { id: 1, photoUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeAcbGLYtVaSSR9SaiRBAmxr94SxDIkHKeQ&usqp=CAU', followed: true, fullName: "Vladislav Surmylo", status: "Engineer", location: { country: 'Ukraine', city: 'Balakleya' } },
+                { id: 2, photoUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeAcbGLYtVaSSR9SaiRBAmxr94SxDIkHKeQ&usqp=CAU', followed: false, fullName: "Alex Surmylo", status: "Developer", location: { country: 'Denmark', city: 'Alborg' } },
+                { id: 3, photoUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNeAcbGLYtVaSSR9SaiRBAmxr94SxDIkHKeQ&usqp=CAU', followed: true, fullName: "Olya Surmylo", status: "QA", location: { country: 'Africa', city: 'Cape Town' } },
+            ]
